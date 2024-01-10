@@ -18,7 +18,7 @@ https://arxiv.org/abs/2305.00942
 https://www.liuyebin.com/styleavatar/styleavatar.html
 
 ### 🖼 Output
-
+![Screenshot 2024-01-10 205837](https://github.com/camenduru/StyleAvatar-colab/assets/54370274/f6d814d0-87eb-4b00-a060-cac61528d3e6)
 
 ### 🏢 Sponsor
 https://modelslab.com
